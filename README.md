@@ -20,7 +20,7 @@
     파일 생성
 10. cat   
     파일의 내용 출력   
-11. pwd
+11. pwd   
     print working directory (현재 위치)
 12. vi   
     파일 들어가기 혹은 파일 생성 후 들어가기
