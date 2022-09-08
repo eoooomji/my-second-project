@@ -6,14 +6,25 @@
     change directory (작업 경로 변경)
 3. rm   
     remove (파일 삭제)
-4. mkdir   
+4. rm -r(파일명)   
+    디렉토리에 파일이 존재할 때 삭제
+5. rm -rf   
+    무조건 적인 삭제
+6. rm -rf .git   
+    그 폴더의 git 확장자 제거하기
+7. mkdir   
     make directory (작업 목록 생성)
-5. rmdir   
+8. rmdir   
     remove directory (작업 목록 삭제)
-6. touch   
+9. touch   
     파일 생성
-7. cat   
+10. cat   
     파일의 내용 출력   
+11. pwd   
+    print working directory (현재 위치)
+12. vi   
+    파일 들어가기 혹은 파일 생성 후 들어가기
+
 
 ### Git
 1. init   
